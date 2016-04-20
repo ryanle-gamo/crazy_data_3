@@ -1,12 +1,12 @@
 {
-	"latest_version":"2.0.0",
+	"latest_version":"1.0.0",
     "is_admob":true,
 	"version":"PRODUCTION",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_graffiti/draw_graffiti_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_graffiti/draw_graffiti_category_alpha.json",
-    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_graffiti/",
-    "google_analytic_id":"UA-51272761-20",
-    "admob_banner_id":"ca-app-pub-4322965078780162/7369971532",
-    "admob_interstitial_id":"ca-app-pub-4322965078780162/8846704738",
-    "itune_url":"itms://itunes.apple.com/us/app/apple-store/id1088775960?mt=8"
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/draw_heart_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/draw_heart_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+    "google_analytic_id":"UA-51272761-21",
+    "admob_banner_id":"ca-app-pub-4322965078780162/4846603136",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/6323336338",
+    "itune_url":"###"
 }
