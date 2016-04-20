@@ -1,247 +1,771 @@
 {
 	"categories":[
                   {
-                    "category_id":"1",
-                    "category_name":"Cute Animals",
-                    "category_thumbnail":"1.png",
+                    "category_id":"1100",
+                    "category_name":"Hearts",
+                    "category_thumbnail":"1100.png",
+                    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                    "file_extension":"png",
                     "is_video":"false",
                     "animes":[
                               {
-                                "anime_id":"1",
-                                "anime_name":"Baby Lion",
-                                "anime_step":8
+                              "anime_id":"1",
+                              "anime_name":"Heart",
+                              "anime_step":11
                               },
                               {
                               "anime_id":"2",
-                              "anime_name":"Baby Tiger",
-                              "anime_step":9
+                              "anime_name":"Heart with balloons",
+                              "anime_step":19
                               },
                               {
                               "anime_id":"3",
-                              "anime_name":"Cute Lion Easy",
-                              "anime_step":8
+                              "anime_name":"Heart with arrow",
+                              "anime_step":12
                               },
                               {
                               "anime_id":"4",
-                              "anime_name":"Chibi Zebra",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"5",
-                              "anime_name":"Cute Dolphin",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"6",
-                              "anime_name":"Adorable Shark",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"7",
-                              "anime_name":"Nice Turtle",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"8",
-                              "anime_name":"Chibi Snake",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"9",
-                              "anime_name":"Cute Crocodile",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"10",
-                              "anime_name":"Baby Pinguin",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"11",
-                              "anime_name":"Funny Octopus",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"12",
-                              "anime_name":"White Duck",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"13",
-                              "anime_name":"Cute Owl",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"14",
-                              "anime_name":"Grey Bird",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"15",
-                              "anime_name":"Cute Blue Parrot",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"16",
-                              "anime_name":"White Unicorn",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"17",
-                              "anime_name":"Baby Panda",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"18",
-                              "anime_name":"Baby Giraffe",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"19",
-                              "anime_name":"Cute Monkey",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"20",
-                              "anime_name":"Baby Elephant",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"21",
-                              "anime_name":"Cute Kitten",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"22",
-                              "anime_name":"Cute Pony",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"23",
-                              "anime_name":"Little Cat",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"24",
-                              "anime_name":"Adorable Hamster",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"25",
-                              "anime_name":"Little Fox",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id":"26",
-                              "anime_name":"Cute Dog",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"27",
-                              "anime_name":"Anime Wolf",
+                              "anime_name":"Heart with patch",
                               "anime_step":14
                               },
                               {
-                              "anime_id":"28",
-                              "anime_name":"Cute Pig",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"29",
-                              "anime_name":"Nice Lion",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"30",
-                              "anime_name":"Baby Skunk",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"31",
-                              "anime_name":"Cute Cat",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"32",
-                              "anime_name":"Nice Fennec Fox",
+                              "anime_id":"5",
+                              "anime_name":"Broken Heart",
                               "anime_step":13
                               },
                               {
-                              "anime_id":"33",
-                              "anime_name":"Cute Cat",
-                              "anime_step":9
+                              "anime_id":"6",
+                              "anime_name":"Hearts in Love",
+                              "anime_step":20
                               },
                               {
-                              "anime_id":"34",
-                              "anime_name":"Cow",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"35",
-                              "anime_name":"Dog",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"36",
-                              "anime_name":"Chicken",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"37",
-                              "anime_name":"Blue Bird",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"38",
-                              "anime_name":"Rabbit",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"39",
-                              "anime_name":"Grey Cat",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"40",
-                              "anime_name":"Triceratops",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"41",
-                              "anime_name":"Little Dog",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"42",
-                              "anime_name":"Cute Dragon",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"43",
-                              "anime_name":"Yellow Monster",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"44",
-                              "anime_name":"Pretty Pony",
+                              "anime_id":"7",
+                              "anime_name":"Kawaii Heart",
                               "anime_step":11
                               },
                               {
-                              "anime_id":"45",
-                              "anime_name":"Tiranosaurus",
-                              "anime_step":9
+                              "anime_id":"8",
+                              "anime_name":"Two Hearts",
+                              "anime_step":14
                               },
                               {
-                              "anime_id":"46",
-                              "anime_name":"Dog in Hat",
-                              "anime_step":10
+                              "anime_id":"9",
+                              "anime_name":"Rose Heart",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"10",
+                              "anime_name":"Tatto Heart",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id":"11",
+                              "anime_name":"Heart and Swallow",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id":"12",
+                              "anime_name":"Hand Heart",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"13",
+                              "anime_name":"Tattoo Rose",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"14",
+                              "anime_name":"Couple",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"15",
+                              "anime_name":"Angel Wings",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"16",
+                              "anime_name":"I Need You",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"17",
+                              "anime_name":"Swans",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"18",
+                              "anime_name":"Realistic Heart",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"19",
+                              "anime_name":"Heart with Wings",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"20",
+                              "anime_name":"Teddy Bear",
+                              "anime_step":13
                               }
                         ]
                     },
                   {
-                  "category_id":"2",
+                  "category_id":"35",
+                  "category_name":"Anime Eyes",
+                  "category_thumbnail":"35.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Abstract Eye",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Anime Men's Eye",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Moon Eye",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Anime Eye",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Fairy Eyes",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Cat's Eye",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Cosmic Eye",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Crying Eye",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Dark Eye",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Male Eye",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Old Realistic Eye",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Pink Eye",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Realistic Eye",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Star Eye",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Winking Eyes",
+                            "anime_step":8
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"36",
+                  "category_name":"Color Eyes",
+                  "category_thumbnail":"36.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Catorce",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cinco",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Cuatro",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Diecinueve",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Dieciocho",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Dieciseis",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Diecisiete",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Diez",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Doce",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Dos",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Nueve",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Ocho",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Once",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Quince",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Seis",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Siete",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Trece",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Tres",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Uno",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Veinte",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Veinticinco",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Veinticuatro",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Veintidos",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Veintiseis",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Veintisiete",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Veintitres",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Veintiuno",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"37",
+                  "category_name":"Classic Eyes Style",
+                  "category_thumbnail":"37.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Classic #1",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Classic #2",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Classic #3",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Classic #4",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Classic #5",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Classic #6",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Classic #7",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Classic #8",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Classic #9",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Classic #10",
+                            "anime_step":4
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"38",
+                  "category_name":"Female Eyes",
+                  "category_thumbnail":"38.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Female #1",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Female #2",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Female #3",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Female #4",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Female #5",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Female #6",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Female #7",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Female #8",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Female #9",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Female #10",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"39",
+                  "category_name":"Male Eyes",
+                  "category_thumbnail":"39.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Male #1",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Male #2",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Male #3",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Male #4",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Male #5",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Male #6",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Male #7",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Male #8",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Male #9",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Male #10",
+                            "anime_step":16
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"40",
+                  "category_name":"Cute Animals",
+                  "category_thumbnail":"40.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Baby Lion",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Baby Tiger",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Cute Lion Easy",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Chibi Zebra",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Cute Dolphin",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Adorable Shark",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Nice Turtle",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Chibi Snake",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Cute Crocodile",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Baby Pinguin",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Funny Octopus",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"White Duck",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Cute Owl",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Grey Bird",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Cute Blue Parrot",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"White Unicorn",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Baby Panda",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Baby Giraffe",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Cute Monkey",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Baby Elephant",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Cute Kitten",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Cute Pony",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Little Cat",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Adorable Hamster",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Little Fox",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Cute Dog",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Anime Wolf",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Cute Pig",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Nice Lion",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Baby Skunk",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Cute Cat",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Nice Fennec Fox",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Cute Cat",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"Cow",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Dog",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Chicken",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Blue Bird",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"38",
+                            "anime_name":"Rabbit",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"39",
+                            "anime_name":"Grey Cat",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"40",
+                            "anime_name":"Triceratops",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"41",
+                            "anime_name":"Little Dog",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"42",
+                            "anime_name":"Cute Dragon",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"43",
+                            "anime_name":"Yellow Monster",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"44",
+                            "anime_name":"Pretty Pony",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"45",
+                            "anime_name":"Tiranosaurus",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"46",
+                            "anime_name":"Dog in Hat",
+                            "anime_step":10
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"41",
                   "category_name":"Cats and Kittens",
-                  "category_thumbnail":"2.png",
+                  "category_thumbnail":"41.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -372,9 +896,11 @@
                             ]
                   },
                   {
-                  "category_id":"3",
+                  "category_id":"42",
                   "category_name":"Cats Superheroes",
-                  "category_thumbnail":"3.png",
+                  "category_thumbnail":"42.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -455,9 +981,11 @@
                             ]
                   },
                   {
-                  "category_id":"4",
+                  "category_id":"43",
                   "category_name":"Dogs and Puppies",
-                  "category_thumbnail":"4.png",
+                  "category_thumbnail":"43.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -588,9 +1116,11 @@
                             ]
                   },
                   {
-                  "category_id":"5",
+                  "category_id":"44",
                   "category_name":"Jurassic Dinosaurs",
-                  "category_thumbnail":"5.png",
+                  "category_thumbnail":"44.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -671,9 +1201,11 @@
                             ]
                   },
                   {
-                  "category_id":"6",
+                  "category_id":"45",
                   "category_name":"Sea Animals",
-                  "category_thumbnail":"6.png",
+                  "category_thumbnail":"45.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -809,9 +1341,11 @@
                             ]
                   },
                   {
-                  "category_id":"7",
+                  "category_id":"46",
                   "category_name":"Farm Animals",
-                  "category_thumbnail":"7.png",
+                  "category_thumbnail":"46.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -917,9 +1451,11 @@
                             ]
                   },
                   {
-                  "category_id":"8",
+                  "category_id":"47",
                   "category_name":"Wild Animals",
-                  "category_thumbnail":"8.png",
+                  "category_thumbnail":"47.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -1065,9 +1601,11 @@
                             ]
                   },
                   {
-                  "category_id":"9",
+                  "category_id":"48",
                   "category_name":"Horses and Unicorns",
-                  "category_thumbnail":"9.png",
+                  "category_thumbnail":"48.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -1173,9 +1711,11 @@
                             ]
                   },
                   {
-                  "category_id":"10",
+                  "category_id":"49",
                   "category_name":"Birds",
-                  "category_thumbnail":"10.png",
+                  "category_thumbnail":"49.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -1281,9 +1821,11 @@
                             ]
                   },
                   {
-                  "category_id":"11",
+                  "category_id":"50",
                   "category_name":"Insects",
-                  "category_thumbnail":"11.png",
+                  "category_thumbnail":"50.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -1389,9 +1931,11 @@
                             ]
                   },
                   {
-                  "category_id":"12",
+                  "category_id":"51",
                   "category_name":"Butterflies",
-                  "category_thumbnail":"12.png",
+                  "category_thumbnail":"51.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -1496,5 +2040,5 @@
                             }
                             ]
                   }
-                  ]
+                ]
 }
