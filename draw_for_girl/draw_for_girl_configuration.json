@@ -1,0 +1,12 @@
+{
+	"latest_version":"1.0.0",
+    "is_admob":true,
+	"version":"PRODUCTION",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/draw_for_girl_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/draw_for_girl_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
+    "google_analytic_id":"UA-51272761-23",
+    "admob_banner_id":"ca-app-pub-4322965078780162/7165784333",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/8642517538",
+    "itune_url":"###"
+}
